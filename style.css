@@ -1,0 +1,15 @@
+.task {
+  margin-top: 10px;
+}
+
+.task a {
+  font-family: sans-serif;
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: black;
+  text-decoration: none;
+}
+
+.task a:hover {
+  color: rgb(100, 193, 255);
+}
